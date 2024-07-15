@@ -1,0 +1,6 @@
+Steps 
+1 .- create .env and define this variables
+
+PORT=number
+MONGO_URI=uri to mongod database
+APPLICATION_NAME="Name"
